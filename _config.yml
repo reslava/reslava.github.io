@@ -59,7 +59,9 @@ plugins:
 author:
   name   : "Rafa Eslava"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : |- 
+    Just testing and starting my website, resume, portfolio and tech blog.
+    Author of REslava.Result result pattern nuget package + ASP.NET integration.
   links:
     - label: "REslava.Result nuget package"
       icon: "fas fa-fw fa-link"
