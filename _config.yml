@@ -15,12 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: Rafa Eslava
 email: rafeslava@hotmail.com
-description: 
-  Just testing and starting my website, resume, portfolio and tech blog.
+description: Just testing and starting my website, resume, portfolio and tech blog.
   Author of REslava.Result result pattern nuget package + ASP.NET integration.
 twitter_username: rafeslava
 github_username: reslava
-minimal_mistakes_skin: default
+minimal_mistakes_skin: sunrise
 search: true
 
 # Build settings
