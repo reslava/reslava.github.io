@@ -1,3 +1,8 @@
+---
+title: About
+layout: page
+---
+
 Hello! I'm a passionate C# .NET software engineer with experience in building robust, scalable applications. I specialize in creating clean, maintainable code that solves real-world problems.
 
 ### Technical Skills
