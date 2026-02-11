@@ -1,15 +1,3 @@
----
-permalink: /about/
-title: "About"
----
-
----
-title: About Me
-layout: page
----
-
-## About Me
-
 Hello! I'm a passionate C# .NET software engineer with experience in building robust, scalable applications. I specialize in creating clean, maintainable code that solves real-world problems.
 
 ### Technical Skills
