@@ -23,6 +23,9 @@ github_username: reslava
 minimal_mistakes_skin: sunrise
 search: true
 
+url: https://reslava.github.io
+baseurl: ''
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
